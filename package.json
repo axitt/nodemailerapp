@@ -1,0 +1,17 @@
+{
+  "name": "nodemailerapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index"
+  },
+  "author": "akshit kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemailer": "^6.6.2",
+    "nodemon": "^2.0.12"
+  }
+}
